@@ -1,0 +1,58 @@
+Q1. 
+Write a program that takes a user’s age and prints:
+"Child" if age < 13
+"Teenager" if 13 ≤ age < 20
+"Adult" if 20 ≤ age < 60
+"Senior Citizen" otherwise
+
+Q2.
+Count the number of vowels in the string:
+sentence = "Artificial Intelligence"
+
+
+Q3. 
+In Python, type() and dir() are built-in functions 
+explain with example with code. 
+
+
+Q4. 
+Create a list with numbers #[10, 20, 30, 40].
+Add 50 to the list.
+Remove 20 from the list.
+Access the 2nd element.
+
+Q5.
+Create a set with numbers #[10, 20, 20, 30, 40, 40].
+What will be the output?
+Why does it look different from a list?
+
+Q6.
+Create a dictionary for a student:
+#student = {"name": "Ravi", "age": 21, "course": "Python"}
+Print only the name.
+Add a new key "grade": "A".
+
+Q7.
+What will be the difference between:
+a = [1, 2, 2, 3]
+b = {1, 2, 2, 3}
+Explain why the outputs are not the same.
+
+Q8.
+(Mutable vs Immutable)
+
+list1 = [1, 2, 3]
+set1 = {1, 2, 3}
+dict1 = {"a": 1, "b": 2}
+
+Can you add a new element to list1?
+Can you add a new element to set1?
+Can you add a new key–value to dict1?
+
+Q9.
+Check if 30 exists in:
+A list: [10, 20, 30, 40]
+A set: {10, 20, 30, 40}
+A dictionary: {"a": 10, "b": 20, "c": 30}
+
+What’s the difference in how membership works?
